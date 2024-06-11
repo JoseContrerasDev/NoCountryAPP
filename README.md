@@ -1,2 +1,2 @@
 # NoCountryAPP
-Proyecto designado por No Country para realizar un ecommerce para una emprendimiento
+Proyecto de NoCountry para realizar un ecommerce de un emprendimiento
